@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.head{
+    background-color: aquamarine;
+    height: 50px;
+    text-align: center;
+}
+nav{
+    background-color: blueviolet;
+    height: 100px;
+    text-align: center;
+
+}
+section{
+    overflow: hidden;
+}
+.left-bar{
+    background-color: darkgoldenrod;
+    width: 70%;
+    height: 500px;
+    float: left;
+    text-align: center;
+
+}
+.upper-left{
+    background-color: fuchsia;
+    height: 50%;
+
+}
+.bottom-left{
+    background-color: green;
+    height: 50%;
+
+}
+.right-bar{
+    background-color: darkred;
+    width: 30%;
+    height: 500px;
+    float: left;
+    text-align: center;
+}
+footer{
+    background-color: olive;
+    height: 100px;
+    text-align: center;
+}
